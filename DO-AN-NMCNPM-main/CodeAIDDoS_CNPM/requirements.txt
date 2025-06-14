@@ -1,0 +1,12 @@
+scapy
+flask
+dash
+scikit-learn
+pandas
+numpy
+joblib
+plotly
+setuptools
+psutil
+flask_cors
+paramiko
